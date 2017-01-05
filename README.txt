@@ -1,16 +1,14 @@
 
-TITLE: 
-Minimal - Fully Responsive Free HTML5 template
+TITLE:
+Raphael Barbo - Personal Website
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
-
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
-
+Raphael Barbo
 
 CREDITS:
+
+FreeHTML5.co
+Twitter: http://twitter.com/fh5co
 
 Bootstrap
 http://getbootstrap.com/
@@ -50,4 +48,3 @@ https://github.com/mhuggins/jquery-countTo
 
 Flexslider
 http://flexslider.woothemes.com/
-
